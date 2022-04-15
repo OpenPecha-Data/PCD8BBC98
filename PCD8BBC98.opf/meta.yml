@@ -1,0 +1,29 @@
+id: PCD8BBC98
+initial_creation_type: input
+source_metadata:
+  title: Hagiography of Sems dpa chen po Nam mkha od zer (fl. 15th cent.)
+  author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-08-03);
+    revision in process, no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by the Paltsek Research
+    Institute. (src)
+  - Text input:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (Lhasa) (eds)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (Lhasa) (eds)
+  text_witnesses: https://sakyaresearch.org/sources/3380
+  bases:
+    326f:
+      title: Hagiography of Sems dpa chen po Nam mkha od zer (fl. 15th cent.)
+      order: 1
+      base_file: 326f.txt
+created_at: '2022-04-15T18:44:03.181097'
+last_modified_at: '2022-04-15T18:44:03.181106'
+quality: null
